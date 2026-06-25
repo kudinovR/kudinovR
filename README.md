@@ -1,16 +1,34 @@
-## Hi there 👋
+# Roman Kudinov
 
-<!--
-**kudinovR/kudinovR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on React and TypeScript.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- Vite
+- Zustand
+- Tailwind CSS
+- Flask
+- REST APIs
+- GitLab CI/CD
+
+## Professional Experience
+
+Frontend Developer at the University and City Library of Cologne.
+
+Contributing to a web application supporting data curation and long-term digital preservation within the LZV.NRW initiative.
+
+## Open Source Contributions
+
+LZV.NRW Project
+
+- React
+- TypeScript
+- Flask
+- Role-based access control
+- Job monitoring
+- Data curation workflows
+
+Repository:
+https://github.com/lzv-nrw
